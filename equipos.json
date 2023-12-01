@@ -1,0 +1,907 @@
+[
+ {
+  "NUMERO": 1,
+  "NOMBRE": "TIVANI,Matias Gerard",
+  "EQUIPO": "JC COMPETICION"
+ },
+ {
+  "NUMERO": 2,
+  "NOMBRE": "AROS,Sebastian",
+  "EQUIPO": "JC COMPETICION"
+ },
+ {
+  "NUMERO": 3,
+  "NOMBRE": "VELARDEZ,Leandro Jav",
+  "EQUIPO": "JC COMPETICION"
+ },
+ {
+  "NUMERO": 4,
+  "NOMBRE": "QUILCI,Alejandro",
+  "EQUIPO": "JC COMPETICION"
+ },
+ {
+  "NUMERO": 5,
+  "NOMBRE": "CARDOSO,Marcelo Omar",
+  "EQUIPO": "JC COMPETICION"
+ },
+ {
+  "NUMERO": 6,
+  "NOMBRE": "SOSA,Juan Cruz",
+  "EQUIPO": "JC COMPETICION"
+ },
+ {
+  "NUMERO": 7,
+  "NOMBRE": "CASAS,Pablo Andres",
+  "EQUIPO": "SUPER 8"
+ },
+ {
+  "NUMERO": 8,
+  "NOMBRE": "MACAYA,Patricio Mart",
+  "EQUIPO": "SUPER 8"
+ },
+ {
+  "NUMERO": 9,
+  "NOMBRE": "MUÑOZ,Luciano Alfred",
+  "EQUIPO": "SUPER 8"
+ },
+ {
+  "NUMERO": 10,
+  "NOMBRE": "OTAÑO,Rodrigo",
+  "EQUIPO": "SUPER 8"
+ },
+ {
+  "NUMERO": 11,
+  "NOMBRE": "BRAVO,Milton Andres",
+  "EQUIPO": "SUPER 8"
+ },
+ {
+  "NUMERO": 12,
+  "NOMBRE": "LOZA,Matias Fabian",
+  "EQUIPO": "SUPER 8"
+ },
+ {
+  "NUMERO": 13,
+  "NOMBRE": "GUERRA,Juan Jose",
+  "EQUIPO": "SUPER 8"
+ },
+ {
+  "NUMERO": 14,
+  "NOMBRE": "RODRIGUEZ,Juan Pablo",
+  "EQUIPO": "SUPER 8"
+ },
+ {
+  "NUMERO": 15,
+  "NOMBRE": "GUIÑEZ,Gustavo Gabri",
+  "EQUIPO": "SUPER 8"
+ },
+ {
+  "NUMERO": 17,
+  "NOMBRE": "VALENTINI,Gerardo",
+  "EQUIPO": "ALLEN PRO"
+ },
+ {
+  "NUMERO": 18,
+  "NOMBRE": "ESPINOZA,Jose Federi",
+  "EQUIPO": "ALLEN PRO"
+ },
+ {
+  "NUMERO": 19,
+  "NOMBRE": "PARRA,Carlos Dionisi",
+  "EQUIPO": "ALLEN PRO"
+ },
+ {
+  "NUMERO": 20,
+  "NOMBRE": "OROCITO,Franco",
+  "EQUIPO": "ALLEN PRO"
+ },
+ {
+  "NUMERO": 21,
+  "NOMBRE": "DORHMANN,German",
+  "EQUIPO": "ALLEN PRO"
+ },
+ {
+  "NUMERO": 22,
+  "NOMBRE": "REYES,Pablo",
+  "EQUIPO": "ALLEN PRO"
+ },
+ {
+  "NUMERO": 23,
+  "NOMBRE": "FLORES,Jesus Daniel",
+  "EQUIPO": "ALLEN PRO"
+ },
+ {
+  "NUMERO": 24,
+  "NOMBRE": "SAULI,Enzo",
+  "EQUIPO": "ALLEN PRO"
+ },
+ {
+  "NUMERO": 25,
+  "NOMBRE": "DIAZ,Brian Alejandro",
+  "EQUIPO": "ASPEN"
+ },
+ {
+  "NUMERO": 26,
+  "NOMBRE": "MARTIN,Diego Fernand",
+  "EQUIPO": "ASPEN"
+ },
+ {
+  "NUMERO": 27,
+  "NOMBRE": "AMOROSO,Renzo Antoni",
+  "EQUIPO": "ASPEN"
+ },
+ {
+  "NUMERO": 28,
+  "NOMBRE": "CEJAS,Jorge Luis",
+  "EQUIPO": "ASPEN"
+ },
+ {
+  "NUMERO": 29,
+  "NOMBRE": "ROLDAN,Cristian",
+  "EQUIPO": "ASPEN"
+ },
+ {
+  "NUMERO": 30,
+  "NOMBRE": "LARRAZ SIRIS,Mariano",
+  "EQUIPO": "ASPEN"
+ },
+ {
+  "NUMERO": 31,
+  "NOMBRE": "SANTA CRUZ,Guido",
+  "EQUIPO": "ASPEN"
+ },
+ {
+  "NUMERO": 32,
+  "NOMBRE": "NAVAS,Diego",
+  "EQUIPO": "ASPEN"
+ },
+ {
+  "NUMERO": 33,
+  "NOMBRE": "EXPOSITO,Aldo",
+  "EQUIPO": "ASPEN"
+ },
+ {
+  "NUMERO": 35,
+  "NOMBRE": "VIVAS,Federico",
+  "EQUIPO": "SAT"
+ },
+ {
+  "NUMERO": 36,
+  "NOMBRE": "ALBORZEN,Elvio",
+  "EQUIPO": "SAT"
+ },
+ {
+  "NUMERO": 37,
+  "NOMBRE": "VALENZUELA,Diego Gas",
+  "EQUIPO": "SAT"
+ },
+ {
+  "NUMERO": 38,
+  "NOMBRE": "MARTINEZ,Agustin",
+  "EQUIPO": "SAT"
+ },
+ {
+  "NUMERO": 39,
+  "NOMBRE": "BENEDETTO,Nicolas",
+  "EQUIPO": "SAT"
+ },
+ {
+  "NUMERO": 41,
+  "NOMBRE": "ABU,Isaias",
+  "EQUIPO": "SAT"
+ },
+ {
+  "NUMERO": 42,
+  "NOMBRE": "FORMIGO,Lucio",
+  "EQUIPO": "SAT"
+ },
+ {
+  "NUMERO": 43,
+  "NOMBRE": "CADER,Davo",
+  "EQUIPO": "ESTRELLA ROJA - SOLAR TAP"
+ },
+ {
+  "NUMERO": 44,
+  "NOMBRE": "FERNANDEZ,Aron",
+  "EQUIPO": "ESTRELLA ROJA - SOLAR TAP"
+ },
+ {
+  "NUMERO": 45,
+  "NOMBRE": "GARRO,Fernando",
+  "EQUIPO": "ESTRELLA ROJA - SOLAR TAP"
+ },
+ {
+  "NUMERO": 46,
+  "NOMBRE": "MARTINEZ,Heraldo",
+  "EQUIPO": "ESTRELLA ROJA - SOLAR TAP"
+ },
+ {
+  "NUMERO": 47,
+  "NOMBRE": "MANCINO,Andres",
+  "EQUIPO": "ESTRELLA ROJA - SOLAR TAP"
+ },
+ {
+  "NUMERO": 48,
+  "NOMBRE": "LINARES,Marcelo Dani",
+  "EQUIPO": "ESTRELLA ROJA - SOLAR TAP"
+ },
+ {
+  "NUMERO": 49,
+  "NOMBRE": "CROCIATI,Enzo",
+  "EQUIPO": "ESTRELLA ROJA - SOLAR TAP"
+ },
+ {
+  "NUMERO": 50,
+  "NOMBRE": "TRUMPIO,Airton",
+  "EQUIPO": "ESTRELLA ROJA - SOLAR TAP"
+ },
+ {
+  "NUMERO": 51,
+  "NOMBRE": "BRUN,William",
+  "EQUIPO": "ESTRELLA ROJA - SOLAR TAP"
+ },
+ {
+  "NUMERO": 52,
+  "NOMBRE": "CORDOBA,Jorge Eduard",
+  "EQUIPO": "TIZIANO COMPETICION"
+ },
+ {
+  "NUMERO": 53,
+  "NOMBRE": "CALFIN,Gonzalo Damia",
+  "EQUIPO": "TIZIANO COMPETICION"
+ },
+ {
+  "NUMERO": 54,
+  "NOMBRE": "MAZZANTI,Guillermo A",
+  "EQUIPO": "TIZIANO COMPETICION"
+ },
+ {
+  "NUMERO": 55,
+  "NOMBRE": "PUJO,Adriano",
+  "EQUIPO": "TIZIANO COMPETICION"
+ },
+ {
+  "NUMERO": 56,
+  "NOMBRE": "GADAY OROZCO,Lucas",
+  "EQUIPO": "TIZIANO COMPETICION"
+ },
+ {
+  "NUMERO": 57,
+  "NOMBRE": "PEREZ,Emiliano Leone",
+  "EQUIPO": "TIZIANO COMPETICION"
+ },
+ {
+  "NUMERO": 58,
+  "NOMBRE": "FERNANDEZ EROSATARBE",
+  "EQUIPO": "TIZIANO COMPETICION"
+ },
+ {
+  "NUMERO": 59,
+  "NOMBRE": "FLORES,Claudio Esteb",
+  "EQUIPO": "TIZIANO COMPETICION"
+ },
+ {
+  "NUMERO": 60,
+  "NOMBRE": "RAMOS,Ruben Gabriel",
+  "EQUIPO": "TIZIANO COMPETICION"
+ },
+ {
+  "NUMERO": 61,
+  "NOMBRE": "OCHOA,Nicolas",
+  "EQUIPO": "COPLA TEAM"
+ },
+ {
+  "NUMERO": 62,
+  "NOMBRE": "CONFALONIERI,Ezequie",
+  "EQUIPO": "COPLA TEAM"
+ },
+ {
+  "NUMERO": 63,
+  "NOMBRE": "NAVARRO,Franco",
+  "EQUIPO": "COPLA TEAM"
+ },
+ {
+  "NUMERO": 64,
+  "NOMBRE": "CHAMBERS,Lucas",
+  "EQUIPO": "COPLA TEAM"
+ },
+ {
+  "NUMERO": 65,
+  "NOMBRE": "BARROS,Sergio",
+  "EQUIPO": "COPLA TEAM"
+ },
+ {
+  "NUMERO": 66,
+  "NOMBRE": "RODRIGUEZ,Braian",
+  "EQUIPO": "COPLA TEAM"
+ },
+ {
+  "NUMERO": 67,
+  "NOMBRE": "CECCHI,Gustavo",
+  "EQUIPO": "COPLA TEAM"
+ },
+ {
+  "NUMERO": 68,
+  "NOMBRE": "ALFARO,Manuel",
+  "EQUIPO": "COPLA TEAM"
+ },
+ {
+  "NUMERO": 69,
+  "NOMBRE": "ANCHIERI,Pablo",
+  "EQUIPO": "CLUB NAUT BOCA DE CUFRE"
+ },
+ {
+  "NUMERO": 70,
+  "NOMBRE": "YANES,Emanuel",
+  "EQUIPO": "CLUB NAUT BOCA DE CUFRE"
+ },
+ {
+  "NUMERO": 71,
+  "NOMBRE": "MORALES,Samuel",
+  "EQUIPO": "CLUB NAUT BOCA DE CUFRE"
+ },
+ {
+  "NUMERO": 72,
+  "NOMBRE": "GONZALES,Diego",
+  "EQUIPO": "CLUB NAUT BOCA DE CUFRE"
+ },
+ {
+  "NUMERO": 73,
+  "NOMBRE": "TRILLINI,Sebastian",
+  "EQUIPO": "CLUB NAUT BOCA DE CUFRE"
+ },
+ {
+  "NUMERO": 74,
+  "NOMBRE": "MASCARAÑAS,Mateo",
+  "EQUIPO": "CLUB NAUT BOCA DE CUFRE"
+ },
+ {
+  "NUMERO": 75,
+  "NOMBRE": "CANTERO,Richard",
+  "EQUIPO": "CLUB NAUT BOCA DE CUFRE"
+ },
+ {
+  "NUMERO": 76,
+  "NOMBRE": "ALONZO,Agustin",
+  "EQUIPO": "CLUB NAUT BOCA DE CUFRE"
+ },
+ {
+  "NUMERO": 77,
+  "NOMBRE": "BAZZI,Facundo Lionel",
+  "EQUIPO": "CITY BIKES MIAMI"
+ },
+ {
+  "NUMERO": 78,
+  "NOMBRE": "GARIBOLDI,Adrian Sil",
+  "EQUIPO": "CITY BIKES MIAMI"
+ },
+ {
+  "NUMERO": 79,
+  "NOMBRE": "GLADICH,Thiago",
+  "EQUIPO": "CITY BIKES MIAMI"
+ },
+ {
+  "NUMERO": 80,
+  "NOMBRE": "GLADICH,Mariano",
+  "EQUIPO": "CITY BIKES MIAMI"
+ },
+ {
+  "NUMERO": 81,
+  "NOMBRE": "D`AQUILA,Nahuel",
+  "EQUIPO": "CITY BIKES MIAMI"
+ },
+ {
+  "NUMERO": 82,
+  "NOMBRE": "BOZZINI,Adrian",
+  "EQUIPO": "CITY BIKES MIAMI"
+ },
+ {
+  "NUMERO": 83,
+  "NOMBRE": "FREDES,Sergio",
+  "EQUIPO": "CITY BIKES MIAMI"
+ },
+ {
+  "NUMERO": 84,
+  "NOMBRE": "SUAREZ,Agustin",
+  "EQUIPO": "CITY BIKES MIAMI"
+ },
+ {
+  "NUMERO": 85,
+  "NOMBRE": "GALLARDO,Santiago",
+  "EQUIPO": "ALDO OPAZO COMPETICION"
+ },
+ {
+  "NUMERO": 86,
+  "NOMBRE": "CARREÑO,Fernando",
+  "EQUIPO": "ALDO OPAZO COMPETICION"
+ },
+ {
+  "NUMERO": 87,
+  "NOMBRE": "CUFFONI,Nestor",
+  "EQUIPO": "ALDO OPAZO COMPETICION"
+ },
+ {
+  "NUMERO": 88,
+  "NOMBRE": "BUCHANAN,Alejandro D",
+  "EQUIPO": "ALDO OPAZO COMPETICION"
+ },
+ {
+  "NUMERO": 89,
+  "NOMBRE": "GIL,Rodrigo",
+  "EQUIPO": "ALDO OPAZO COMPETICION"
+ },
+ {
+  "NUMERO": 90,
+  "NOMBRE": "PAILAHUEQUE,Gilberto",
+  "EQUIPO": "ALDO OPAZO COMPETICION"
+ },
+ {
+  "NUMERO": 91,
+  "NOMBRE": "OPAZO,Carlos",
+  "EQUIPO": "ALDO OPAZO COMPETICION"
+ },
+ {
+  "NUMERO": 92,
+  "NOMBRE": "BELICH,Juan Pablo",
+  "EQUIPO": "ALDO OPAZO COMPETICION"
+ },
+ {
+  "NUMERO": 93,
+  "NOMBRE": "ARIAS,Alejandro",
+  "EQUIPO": "ARIAS TEAM CL&CL"
+ },
+ {
+  "NUMERO": 94,
+  "NOMBRE": "LILLO,Thomas",
+  "EQUIPO": "ARIAS TEAM CL&CL"
+ },
+ {
+  "NUMERO": 96,
+  "NOMBRE": "QUIJADA,Pablo",
+  "EQUIPO": "ARIAS TEAM CL&CL"
+ },
+ {
+  "NUMERO": 97,
+  "NOMBRE": "MILLAQUEO,Juan",
+  "EQUIPO": "ARIAS TEAM CL&CL"
+ },
+ {
+  "NUMERO": 98,
+  "NOMBRE": "GUTIERREZ,Fernando",
+  "EQUIPO": "ARIAS TEAM CL&CL"
+ },
+ {
+  "NUMERO": 99,
+  "NOMBRE": "PAINEMIL,Cristian",
+  "EQUIPO": "ARIAS TEAM CL&CL"
+ },
+ {
+  "NUMERO": 100,
+  "NOMBRE": "ORTEGA,Rodrigo",
+  "EQUIPO": "PROXIRED - BICHARACOS"
+ },
+ {
+  "NUMERO": 101,
+  "NOMBRE": "RAMOS,Pablo",
+  "EQUIPO": "PROXIRED - BICHARACOS"
+ },
+ {
+  "NUMERO": 102,
+  "NOMBRE": "MORALES,Roberto",
+  "EQUIPO": "PROXIRED - BICHARACOS"
+ },
+ {
+  "NUMERO": 103,
+  "NOMBRE": "OBREQUE,Gabriel",
+  "EQUIPO": "PROXIRED - BICHARACOS"
+ },
+ {
+  "NUMERO": 104,
+  "NOMBRE": "FLORES,Rolando Danie",
+  "EQUIPO": "PROXIRED - BICHARACOS"
+ },
+ {
+  "NUMERO": 105,
+  "NOMBRE": "VICTORIO,Alex",
+  "EQUIPO": "PROXIRED - BICHARACOS"
+ },
+ {
+  "NUMERO": 106,
+  "NOMBRE": "VANACLOY,Emiliano",
+  "EQUIPO": "PROXIRED - BICHARACOS"
+ },
+ {
+  "NUMERO": 107,
+  "NOMBRE": "CAMPOS,Norberto Nica",
+  "EQUIPO": "TEAM CUTRALCO - B"
+ },
+ {
+  "NUMERO": 108,
+  "NOMBRE": "CANALE,Carlos Albert",
+  "EQUIPO": "TEAM CUTRALCO - B"
+ },
+ {
+  "NUMERO": 109,
+  "NOMBRE": "FRATTINI,Fernando",
+  "EQUIPO": "TEAM CUTRALCO - B"
+ },
+ {
+  "NUMERO": 110,
+  "NOMBRE": "RIVERA,Cesar",
+  "EQUIPO": "TEAM CUTRALCO - B"
+ },
+ {
+  "NUMERO": 111,
+  "NOMBRE": "MORO,Aldo Alexander",
+  "EQUIPO": "TEAM CUTRALCO - B"
+ },
+ {
+  "NUMERO": 112,
+  "NOMBRE": "PEREYRA,Gonzalo",
+  "EQUIPO": "TEAM CUTRALCO - B"
+ },
+ {
+  "NUMERO": 113,
+  "NOMBRE": "PEREYRA,Diego",
+  "EQUIPO": "TEAM CUTRALCO - B"
+ },
+ {
+  "NUMERO": 114,
+  "NOMBRE": "SCHWALLIER,Juan Marc",
+  "EQUIPO": "AGRUP 5 DE DICIEMBRE"
+ },
+ {
+  "NUMERO": 116,
+  "NOMBRE": "VOMMARO,Pablo Adrian",
+  "EQUIPO": "AGRUP 5 DE DICIEMBRE"
+ },
+ {
+  "NUMERO": 117,
+  "NOMBRE": "FREIBERGER,Pablo",
+  "EQUIPO": "AGRUP 5 DE DICIEMBRE"
+ },
+ {
+  "NUMERO": 118,
+  "NOMBRE": "GUEVARA,Jose Luis",
+  "EQUIPO": "AGRUP 5 DE DICIEMBRE"
+ },
+ {
+  "NUMERO": 119,
+  "NOMBRE": "NEIRA,Denis Emanuel",
+  "EQUIPO": "AGRUP 5 DE DICIEMBRE"
+ },
+ {
+  "NUMERO": 120,
+  "NOMBRE": "AVILA,Jorge Emilo",
+  "EQUIPO": "AGRUP 5 DE DICIEMBRE"
+ },
+ {
+  "NUMERO": 121,
+  "NOMBRE": "SOLORZA,Marco",
+  "EQUIPO": "SOLORZA COMPETICION"
+ },
+ {
+  "NUMERO": 122,
+  "NOMBRE": "SOLORZA,Juan",
+  "EQUIPO": "SOLORZA COMPETICION"
+ },
+ {
+  "NUMERO": 123,
+  "NOMBRE": "MARTIN,Gustavo Anton",
+  "EQUIPO": "SOLORZA COMPETICION"
+ },
+ {
+  "NUMERO": 124,
+  "NOMBRE": "KIJUTO,Martin Sebast",
+  "EQUIPO": "SOLORZA COMPETICION"
+ },
+ {
+  "NUMERO": 125,
+  "NOMBRE": "VILLEGAS,Carlos Lean",
+  "EQUIPO": "SOLORZA COMPETICION"
+ },
+ {
+  "NUMERO": 126,
+  "NOMBRE": "SACNE,Matias",
+  "EQUIPO": "SOLORZA COMPETICION"
+ },
+ {
+  "NUMERO": 127,
+  "NOMBRE": "REYES,Carlos Roberto",
+  "EQUIPO": "FERIA EXPO VERDE"
+ },
+ {
+  "NUMERO": 128,
+  "NOMBRE": "INFANTE,Roberto",
+  "EQUIPO": "FERIA EXPO VERDE"
+ },
+ {
+  "NUMERO": 129,
+  "NOMBRE": "NAHUELPAN,Hector Fab",
+  "EQUIPO": "FERIA EXPO VERDE"
+ },
+ {
+  "NUMERO": 130,
+  "NOMBRE": "RODRIGUEZ,Elbio",
+  "EQUIPO": "FERIA EXPO VERDE"
+ },
+ {
+  "NUMERO": 131,
+  "NOMBRE": "MONTALDO,Gianfranco",
+  "EQUIPO": "FERIA EXPO VERDE"
+ },
+ {
+  "NUMERO": 132,
+  "NOMBRE": "PEDUZZI,Luis Antonio",
+  "EQUIPO": "FERIA EXPO VERDE"
+ },
+ {
+  "NUMERO": 133,
+  "NOMBRE": "CASTRO PEREIRA,Alvar",
+  "EQUIPO": "PEDAL CLUB ESCUELA TENO"
+ },
+ {
+  "NUMERO": 134,
+  "NOMBRE": "BRAVO MANSILLA,Ediso",
+  "EQUIPO": "PEDAL CLUB ESCUELA TENO"
+ },
+ {
+  "NUMERO": 135,
+  "NOMBRE": "MIRANDA FIGUEROA,Gon",
+  "EQUIPO": "PEDAL CLUB ESCUELA TENO"
+ },
+ {
+  "NUMERO": 136,
+  "NOMBRE": "SILVA LERMADA,Benjam",
+  "EQUIPO": "PEDAL CLUB ESCUELA TENO"
+ },
+ {
+  "NUMERO": 137,
+  "NOMBRE": "ALDANA SALAZAR,Sebas",
+  "EQUIPO": "PEDAL CLUB ESCUELA TENO"
+ },
+ {
+  "NUMERO": 138,
+  "NOMBRE": "ALLENDE LAGO,Manuel",
+  "EQUIPO": "PEDAL CLUB ESCUELA TENO"
+ },
+ {
+  "NUMERO": 139,
+  "NOMBRE": "BENAVIDEZ,Marcelo",
+  "EQUIPO": "ROD EL`ENA BICHARRACOS"
+ },
+ {
+  "NUMERO": 140,
+  "NOMBRE": "MARTINEZ,Hugo",
+  "EQUIPO": "ROD EL`ENA BICHARRACOS"
+ },
+ {
+  "NUMERO": 141,
+  "NOMBRE": "ARIAS VILA,Santiago",
+  "EQUIPO": "ROD EL`ENA BICHARRACOS"
+ },
+ {
+  "NUMERO": 142,
+  "NOMBRE": "BELMAR,Damian",
+  "EQUIPO": "ROD EL`ENA BICHARRACOS"
+ },
+ {
+  "NUMERO": 143,
+  "NOMBRE": "GANGAS,Brando Ismael",
+  "EQUIPO": "ROD EL`ENA BICHARRACOS"
+ },
+ {
+  "NUMERO": 144,
+  "NOMBRE": "VICTORIO,Hugo Albert",
+  "EQUIPO": "ROD EL`ENA BICHARRACOS"
+ },
+ {
+  "NUMERO": 145,
+  "NOMBRE": "LLANCAFIL SALAS,Igna",
+  "EQUIPO": "CLUB CICLISTA ÑIELOL"
+ },
+ {
+  "NUMERO": 146,
+  "NOMBRE": "ÑANCULEF AILLIÑIR,Ru",
+  "EQUIPO": "CLUB CICLISTA ÑIELOL"
+ },
+ {
+  "NUMERO": 147,
+  "NOMBRE": "NUÑEZ LUENGO,Nicolas",
+  "EQUIPO": "CLUB CICLISTA ÑIELOL"
+ },
+ {
+  "NUMERO": 148,
+  "NOMBRE": "GENOVA SOTO,Bruno Cr",
+  "EQUIPO": "CLUB CICLISTA ÑIELOL"
+ },
+ {
+  "NUMERO": 149,
+  "NOMBRE": "CONEJEROS JARAMILLO,",
+  "EQUIPO": "CLUB CICLISTA ÑIELOL"
+ },
+ {
+  "NUMERO": 150,
+  "NOMBRE": "PINO FERNANDEZ,Benja",
+  "EQUIPO": "CLUB CICLISTA ÑIELOL"
+ },
+ {
+  "NUMERO": 151,
+  "NOMBRE": "VALVERDE,Luis",
+  "EQUIPO": "LOS AMIGOS"
+ },
+ {
+  "NUMERO": 152,
+  "NOMBRE": "ZUÑIGA,Gustavo Ariel",
+  "EQUIPO": "LOS AMIGOS"
+ },
+ {
+  "NUMERO": 153,
+  "NOMBRE": "REYES,Hugo Orlando",
+  "EQUIPO": "LOS AMIGOS"
+ },
+ {
+  "NUMERO": 154,
+  "NOMBRE": "AGUIRRE,Sebastian",
+  "EQUIPO": "LOS AMIGOS"
+ },
+ {
+  "NUMERO": 155,
+  "NOMBRE": "LEIVA,Jose Matias",
+  "EQUIPO": "LOS AMIGOS"
+ },
+ {
+  "NUMERO": 156,
+  "NOMBRE": "SANDOVAL,Sergio",
+  "EQUIPO": "LOS AMIGOS"
+ },
+ {
+  "NUMERO": 157,
+  "NOMBRE": "NAVARRETE,Jonathan",
+  "EQUIPO": "TEAM CUTRAL CO A"
+ },
+ {
+  "NUMERO": 158,
+  "NOMBRE": "GAMBOA,Lionel",
+  "EQUIPO": "TEAM CUTRAL CO A"
+ },
+ {
+  "NUMERO": 159,
+  "NOMBRE": "LYARDET,Gonzalo Nahu",
+  "EQUIPO": "TEAM CUTRAL CO A"
+ },
+ {
+  "NUMERO": 160,
+  "NOMBRE": "SILVA,Martin",
+  "EQUIPO": "TEAM CUTRAL CO A"
+ },
+ {
+  "NUMERO": 161,
+  "NOMBRE": "CONTRERAS,Tomas",
+  "EQUIPO": "TEAM CUTRAL CO A"
+ },
+ {
+  "NUMERO": 162,
+  "NOMBRE": "MUÑOZ,Santiago",
+  "EQUIPO": "TEAM CUTRAL CO A"
+ },
+ {
+  "NUMERO": 163,
+  "NOMBRE": "CANALE,Jose",
+  "EQUIPO": "TRANSPORTE NORTE"
+ },
+ {
+  "NUMERO": 164,
+  "NOMBRE": "ZALAZAR PALACIOS,Pab",
+  "EQUIPO": "TRANSPORTE NORTE"
+ },
+ {
+  "NUMERO": 165,
+  "NOMBRE": "MUÑOZ,Luis",
+  "EQUIPO": "TRANSPORTE NORTE"
+ },
+ {
+  "NUMERO": 166,
+  "NOMBRE": "TEJEDA,Juan",
+  "EQUIPO": "TRANSPORTE NORTE"
+ },
+ {
+  "NUMERO": 167,
+  "NOMBRE": "KOLMAN,Victor",
+  "EQUIPO": "TRANSPORTE NORTE"
+ },
+ {
+  "NUMERO": 168,
+  "NOMBRE": "GUARDA,Mauricio",
+  "EQUIPO": "TRANSPORTE NORTE"
+ },
+ {
+  "NUMERO": 169,
+  "NOMBRE": "INOSTROZA,Rodrigo",
+  "EQUIPO": "TRAN NORTE CARN EL RUSITO"
+ },
+ {
+  "NUMERO": 170,
+  "NOMBRE": "ZALAZAR,Pablo Basili",
+  "EQUIPO": "TRAN NORTE CARN EL RUSITO"
+ },
+ {
+  "NUMERO": 171,
+  "NOMBRE": "MELLA,Juan Pablo",
+  "EQUIPO": "TRAN NORTE CARN EL RUSITO"
+ },
+ {
+  "NUMERO": 172,
+  "NOMBRE": "ZALAZAR,Leandro",
+  "EQUIPO": "TRAN NORTE CARN EL RUSITO"
+ },
+ {
+  "NUMERO": 173,
+  "NOMBRE": "JARA,Brian",
+  "EQUIPO": "TRAN NORTE CARN EL RUSITO"
+ },
+ {
+  "NUMERO": 174,
+  "NOMBRE": "LARA,Jose Luis",
+  "EQUIPO": "TRAN NORTE CARN EL RUSITO"
+ },
+ {
+  "NUMERO": 175,
+  "NOMBRE": "GUEVARA,Raul",
+  "EQUIPO": "METALTEJ - JM BIKES"
+ },
+ {
+  "NUMERO": 176,
+  "NOMBRE": "GODOY,Oscar",
+  "EQUIPO": "METALTEJ - JM BIKES"
+ },
+ {
+  "NUMERO": 177,
+  "NOMBRE": "NAVARRETE,Jose",
+  "EQUIPO": "METALTEJ - JM BIKES"
+ },
+ {
+  "NUMERO": 178,
+  "NOMBRE": "NAHUELFIL,Facundo",
+  "EQUIPO": "METALTEJ - JM BIKES"
+ },
+ {
+  "NUMERO": 179,
+  "NOMBRE": "BRAUDACCO,Lucas",
+  "EQUIPO": "METALTEJ - JM BIKES"
+ },
+ {
+  "NUMERO": 180,
+  "NOMBRE": "SEPULVEDA,Gabriel",
+  "EQUIPO": "METALTEJ - JM BIKES"
+ },
+ {
+  "NUMERO": 181,
+  "NOMBRE": "GUTIERREZ,Esteban",
+  "EQUIPO": "BYM JC COMPETICION"
+ },
+ {
+  "NUMERO": 182,
+  "NOMBRE": "VILUGRON,Nelson Mati",
+  "EQUIPO": "BYM JC COMPETICION"
+ },
+ {
+  "NUMERO": 183,
+  "NOMBRE": "PRIARIO,Maximiliano",
+  "EQUIPO": "BYM JC COMPETICION"
+ },
+ {
+  "NUMERO": 184,
+  "NOMBRE": "PRAIZ,Maximiliano",
+  "EQUIPO": "BYM JC COMPETICION"
+ },
+ {
+  "NUMERO": 185,
+  "NOMBRE": "TADDEO,Mariano Ariel",
+  "EQUIPO": "BYM JC COMPETICION"
+ },
+ {
+  "NUMERO": 186,
+  "NOMBRE": "VECCHI,Franco Matias",
+  "EQUIPO": "BYM JC COMPETICION"
+ }
+]
